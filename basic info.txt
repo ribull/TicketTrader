@@ -1,0 +1,13 @@
+This is the web app for the ticket trader:
+
+Features:
+Uses Credit Cards/PayPal or Venmo
+Buyers can DM sellers (Sellers cannot DM Buyers first)
+Store digital copy of ticket on app
+Send Ticket through app
+Purchase/Trade History
+
+Sign in with Purdue Account?
+We get a percentage of transaction?
+Ask school what kind of statistics they look for.
+Sellers: Pay some money to have your offer viewed first
